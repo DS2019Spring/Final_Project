@@ -1,6 +1,4 @@
-# Final_Project
-
-<h3>Recommendation Engine For Online Programming Platform</h3>
+# Recommendation Engine For Online Programming Platform
 
 <h4>OVERVIEW</h4>
 Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. The aim of competitive programming is to write source code of computer programs which are able to solve given problems. Major companies hire from top coding platforms. The planning, workforce, time and money which goes into recruiting is cut to half by the competitive coding platforms.
